@@ -1,0 +1,9 @@
+{
+  "videos": [
+    {
+      "title": "Test Video",
+      "thumb": "https://picsum.photos/320/180",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}
